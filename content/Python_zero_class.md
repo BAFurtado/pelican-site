@@ -8,4 +8,4 @@ Summary: A first (zero) class of Python.
 
 ## Students looked quite happy at the end.
 
-![a phantom image]({static}/images/zoom_class.png)
+![a phantom image](images/zoom_class.png){height=400px width=700px}
