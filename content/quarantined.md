@@ -19,4 +19,5 @@ totally startled back by a faint knock on the door brought me back.
 I raised my head a bit to stare out of the window. "No", I thought. "Scientists are saying these things cannot fly. Not
 airborne, they said." I knew, however, they did hoover inside "water droplets".  
 
+![a phantom image]({static}/images/logo.png)
 (...)
