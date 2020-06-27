@@ -2,7 +2,7 @@ Title: Python class about class at Ipea!
 Date: 2020-06-24 18:30
 Category: class
 Tags: home
-Slug: class
+Slug: class7
 Authors: B Furtado
 Summary: A seventh class of Python.
 

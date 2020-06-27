@@ -2,7 +2,7 @@ Title: Python zero class at Ipea!
 Date: 2020-05-13 18:30
 Category: class
 Tags: home
-Slug: class
+Slug: class0
 Authors: B Furtado
 Summary: A first (zero) class of Python.
 

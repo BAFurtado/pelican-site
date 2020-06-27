@@ -2,7 +2,7 @@ Title: Python happy class ending at Ipea!
 Date: 2020-05-27 18:30
 Category: class
 Tags: home
-Slug: class
+Slug: class6
 Authors: B Furtado
 Summary: Ficando bom em python.
 
