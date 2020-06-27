@@ -1,4 +1,4 @@
-Title: Python happy class endingat Ipea!
+Title: Python happy class ending at Ipea!
 Date: 2020-05-27 18:30
 Category: class
 Tags: home
