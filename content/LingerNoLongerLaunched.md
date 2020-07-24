@@ -24,7 +24,7 @@ realize their only way out is to fight back.
 Linger No Longer is a contemporaneous female-focused thriller, that depicts a detailed and dangerous flight for 
 life and how it can change people and their perspectives.
 
-![a phantom image](images/LingerNoLonger.jpeg){height=400px width=700px}
+![a phantom image](images/LingerNoLonger.png){height=400px width=700px}
 
 ## **https://www.amazon.com/Linger-Longer-Diana-runner-helper-ebook/dp/B08D6WQHG9**
 
