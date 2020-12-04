@@ -1,7 +1,7 @@
 Title: Un día en la vida del alcalde del Río Hermoso!
 Date: 2020-11-15 15:07
 Category: español
-Tags: repaso de los pasados
+Tags: repaso de los pasados0
 Slug: español2
 Authors: B Furtado
 Summary: Un cuento de un alcalde que no era sano

@@ -1,7 +1,7 @@
 Title: La vaca amarilla
 Date: 2020-12-4 21:09
 Category: español
-Tags: repaso de los pasados
+Tags: repaso de los pasados2
 Slug: español3
 Authors: B Furtado
 Summary: Un dia en la vida del Rio Hermoso
